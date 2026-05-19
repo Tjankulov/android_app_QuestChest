@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuestChest</string>
+    <string name="homepage">Poišči svoj naslednji pobeg</string>
+    <string name="my_escape_rooms">Moje sobe</string>
+    <string name="add_escape_room">Dodaj sobo</string>
+    <string name="settings">Nastavitve</string>
+    <string name="login">Prijava</string>
+
+</resources>
