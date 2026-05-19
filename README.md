@@ -16,8 +16,10 @@ Uporabljene tehnologije
 Kotlin
 Android Studio
 Jetpack Compose
-Testni dostop
 
+Prenos aplikacije
+APK datoteka:
+release/QuestChest.apk
 Za predstavitev aplikacije uporabite testni dostop znotraj aplikacije. Geslo "escapemaster"
 
 Dokumentacija:
