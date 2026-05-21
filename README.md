@@ -25,6 +25,5 @@ Za predstavitev aplikacije uporabite testni dostop znotraj aplikacije. Geslo "es
 Dokumentacija:
 Projekt vsebuje tudi ilustrirano poročilo v PDF obliki.
 
-Avtor: 
-Tadeja Jankulov
-Projekt izdelan v okviru študija računalništva in spletnih tehnologij.
+
+Projekt je bil izdelan v okviru študija računalništva in spletnih tehnologij.
