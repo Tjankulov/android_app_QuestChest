@@ -5,17 +5,6 @@ QuestChest – Android aplikacija za odkrivanje in spremljanje obiskanih sob pob
 O projektu:
 QuestChest je mobilna aplikacija, razvita v okviru študija računalništva. Namen aplikacije je uporabniku omogočiti pregled sob pobega ter ustvarjanje lastnega seznama obiskanih sob.
 
-Funkcionalnosti:
-prijava v aplikacijo
-prikaz podatkov iz zunanjega vira
-filtriranje seznama glede na državo
-dodajanje sob v lasten seznam
-lokalno shranjevanje podatkov
-pregled obiskanih sob
-Uporabljene tehnologije
-Kotlin
-Android Studio
-Jetpack Compose
 
 Prenos aplikacije
 APK datoteka:
